@@ -20,5 +20,12 @@
 	include("variableTest.php");
 	?>
 </section>
+<hr>
+<section>
+	<p>Array</p>
+	<?php
+	include("array.php");
+	?>
+</section>
 </body>
 </html>
