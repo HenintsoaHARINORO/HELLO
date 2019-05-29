@@ -13,5 +13,12 @@
 </p>
 <h1>Hello everybody </h1>
 <h2>Her name is <label id="nom"><?php include("head.php")?></label></h2>
+<hr>
+<section>
+	<p>Variables testing</p>
+	<?php
+	include("variableTest.php");
+	?>
+</section>
 </body>
 </html>
